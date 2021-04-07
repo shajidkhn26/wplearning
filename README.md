@@ -1,0 +1,2 @@
+# wplearning
+Learning core wordpress
